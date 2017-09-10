@@ -1,2 +1,2 @@
 # hello-world
-this is the lesson repository on github
+edits to the readme will commit on submission
